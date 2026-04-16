@@ -1,5 +1,1 @@
-# hello-world
-
-Wir haben unsere erste Änderung vorgenommen und einen Branch erstellt.
-
-Blabl
+Wir löschen alles und lassen nur noch den Text stehen.
